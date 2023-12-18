@@ -1,2 +1,2 @@
-# sellex
-Sellex is a web-framework coded in PHP
+# KIUKIU
+KIUKIU is a web-framework coded in PHP
